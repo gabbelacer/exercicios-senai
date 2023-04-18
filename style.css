@@ -1,0 +1,51 @@
+header{
+    background-color: #5c017a;
+    color: white;
+}
+main{
+    background-color: #6d0091;
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+.form-control:focus,
+.form-select:focus {
+    border-color: #6d0091;
+    outline: 0;
+    box-shadow: none;
+  }
+
+
+#img-mario{
+    height: 233px;
+}
+#img-kong{
+    height: 233px;
+}
+#img-crash{
+    height: 233px;
+}
+#img-sonic{
+    height: 250px;
+}
+#img-god-of-war{
+    height: 250px;
+}
+#img-gta{
+    object-fit: cover;
+    height: 250px;
+}
+#img-bully{
+    height: 270px;
+}
+#img-mortal-kombat{
+    height: 270px;
+}
+#img-guitar-hero{
+    height: 270px;
+}
+footer{
+    text-align: center;
+}
